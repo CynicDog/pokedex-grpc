@@ -4,7 +4,7 @@ A minimal Python gRPC app using [`buf`](https://buf.build) for proto management 
 
 This project was heavily helped by [“Protobuf dependency management with Buf”](https://www.youtube.com/watch?v=OSdQlnoO0og), so big thanks to Mike for hosting the tutorial.
 
-I also wrote an article in more detail here: [What Buf Did for My Protos, uv Did for My Python Soul](https://cynicdog.github.io/posts/what-buf-did-for-my-protos-uv-did-for-my-python-soul/)
+I also wrote an article in more detail here: [From Manual Proto Hunting to Buf Sanity](https://cynicdog.github.io/posts/from-manual-proto-hunting-to-buf-sanity/)
 
 ## Run `main.py` script
 
